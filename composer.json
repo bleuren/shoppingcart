@@ -1,0 +1,17 @@
+{
+    "name": "bleuren/shoppingcart",
+    "description": "2022 得寬科技線上技術測驗",
+    "autoload": {
+        "psr-4": {
+            "Bleuren\\Shoppingcart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bleu",
+            "email": "bleuren@hotmail.com"
+        }
+    ],
+    "require": {},
+    "license": "MIT"
+}
